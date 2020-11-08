@@ -16,6 +16,6 @@ App That Shows a Phrase when you click at the button
 
 - XCode 11 ou Posterior
 
-##Thank You
+## Thank You
 
 Guilherme Moraes – [Linkedin](https://www.linkedin.com/in/guilherme-garcia-dos-santos-40b63891/) 
