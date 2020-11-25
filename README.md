@@ -18,4 +18,4 @@ App That Shows a Phrase when you click at the button
 
 ## Thank You
 
-Guilherme Moraes – [Linkedin](https://www.linkedin.com/in/guilherme-garcia-dos-santos-40b63891/) 
+Guilherme Moraes – [Linkedin](https://www.linkedin.com/in/ggarciamoraes/) 
